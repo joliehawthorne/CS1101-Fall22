@@ -3,8 +3,8 @@
 ## Course Information (Sections 02 & 03)
 - Instructor: Dr. Gina Bai
 - Office: FGH 381
-- Office hours: Mon/Wed 10am - 11:30am
-- [Syllabus](https://github.com/ginaBai/CS1101-Fall22/blob/main/CS1101-F22-syllabus.pdf)
+- Office hours: Mon/Wed 10 am - 11:30 am
+- [Syllabus](CS1101-F22-syllabus.pdf)
 
 ## Textbook
 - [zyBooks](https://learn.zybooks.com) (code: `VANDERBILTCS1101Fall2022`)
@@ -14,10 +14,10 @@
 
 ## Tentative Schedule
 :pushpin: Slides will be posted before the class meetings, check often.
-| Week | Date |    Topics    | Assignments |
+| Week | Date |    Topics    | Assignments (Central Time)|
 | :----: | ---- | -------------| ----------- |
-| 1 | Aug 24  | <li>Introduction</li> | :fountain_pen: `HW0-A`, `HW0-B` on **Brightspace** <br> **DUE:** Monday, Aug 29, at 11:59 pm CDT | |
-|   | Aug 26  | <li>Structure of Java</li><li>Write-Compile-Execute</li> | <li>:computer: `PA00-A`, `PA00-B` in **zyBook Chap 12** <br> **DUE:** Thursday, Sept 1, at 11:59 pm CDT</li><li>:books: `ZY-1`, `ZY-2A` in **zyBook Assignments** <br> **DUE:** Saturday, Sept 3, at 11:59 pm</li>| |
+| 1 | Aug 24  | <li>[Introduction](Slides/Lec1-Intro.pdf)</li> | :fountain_pen: `HW0-A`, `HW0-B` on **Brightspace** <br> **DUE:** Monday, Aug 29, at 11:59 pm | |
+|   | Aug 26  | <li>Structure of Java</li><li>Write-Compile-Execute</li> | <li>:computer: `PA00-A`, `PA00-B` in **zyBook Chap 12** <br> **DUE:** Thursday, Sept 1, at 11:59 pm</li><li>:books: `ZY-1`, `ZY-2A` in **zyBook Assignments** <br> **DUE:** Saturday, Sept 3, at 11:59 pm</li>| |
 | 2 | Aug 29  | <li>Debugging</li><li>Program Errors</li><li>Primitive Data Type</li> | | HW0 - A, HW0 - B |
 |   | Aug 31  | <li>Expressions</li><li>Variables</li> | |
 |   | Sept 2  | <li>Math Class</li><li>Constant & Class Constant</li> | | 
