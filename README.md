@@ -18,8 +18,8 @@
 | :----: | ---- | -------------| ---------------- |
 | 1 | Aug 24  | <li>[Introduction](Slides/Lec1-Intro.pdf)</li> | :fountain_pen: `HW0-A`, `HW0-B` on **Brightspace > First Week** <br> **DUE:** Monday, Aug 29, at 11:59 pm | |
 |   | Aug 26  | <li>[Structure of Java](Slides/Lec2-StructureOfJava.pdf)</li><li>[Write-Compile-Execute](Slides/Lec2-WriteCompileExecute.pdf)</li><li>Additional: [Unix Commands](Slides/Lec2-UnixCommand.pdf)</li> | <li>:computer: `PA00-A`, `PA00-B` in **zyBook > Chap 12** <br> **DUE:** Thursday, Sept 1, at 11:59 pm</li><li>:books: `ZY-1`, `ZY-2A` in **zyBook > Assignments** <br> **DUE:** Saturday, Sept 3, at 11:59 pm</li>| |
-| 2 | Aug 29  | <li>Debugging</li><li>Program Errors</li><li>Scanner with integers</li> <br>:page_facing_up: Recommended Reading: <li>[Oracle - Java Tutorial: Scanning](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)</li> | |
-|   | Aug 31  | <li>Primitive Data Type</li><li>Expressions</li><li>Variables</li> | |
+| 2 | Aug 29  | <li>Debugging</li><li>Program Errors</li><li>Primitive Data Type</li><li>Expressions</li> | |
+|   | Aug 31  | <li>Variables</li><li>Scanner with integers</li> <br>:page_facing_up: Recommended Reading: <li>[Oracle - Java Tutorial: Scanning](https://docs.oracle.com/javase/tutorial/essential/io/scanning.html)</li> | |
 |   | Sept 2  | <li>Math Class</li><li>Constant & Class Constant</li> | | 
 | 3 | Sept 5  | <li>Strings</li><li>Scanner with Strings</li> | | 
 |   | Sept 7  | <li>Static Method Parameter & Return Value</li> | | 
